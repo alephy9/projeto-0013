@@ -9,6 +9,12 @@
 body {
     background-color: gray;
     font-family: 'Kumbh Sans', sans-serif;
+    background-image: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg);
+    background-size: cover;
+    background-position: left -600px top -600px, right -600px bottom -600px;
+    background-repeat: no-repeat;
+    background-color: gray;
+    font-family: 'Kumbh Sans', sans-serif;
     background-color: hsl(185, 75%, 39%);
 }
 
